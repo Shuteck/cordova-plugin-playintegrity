@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-playintegrity",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-playintegrity",
+    "platforms": ["android", "ios"]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuteck/cordova-plugin-playintegrity.git"
+  },
+  "keywords": ["cordova", "play", "integrity", "cordova-ios", "cordova-android"],
+  "description": "Cordova Plugin for Google Play Integrity",
+  "author": "Carlos Silveira - CommonMS",
+  "license": "MIT"
+}
